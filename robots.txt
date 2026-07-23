@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationsaintpetersburg.com/sitemap.xml
